@@ -1,10 +1,10 @@
 {
-  "name": "pkg",
+  "name": "@jakzo/pkg",
   "version": "4.4.9",
   "description": "Package your Node.js project into an executable",
   "main": "lib-es5/index.js",
   "license": "MIT",
-  "repository": "zeit/pkg",
+  "repository": "jakzo/pkg",
   "bin": {
     "pkg": "lib-es5/bin.js"
   },
